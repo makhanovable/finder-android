@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Finder</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBkyfhHIwiB2YahDE6onnSm3m2p6Z359v4</string>
+</resources>

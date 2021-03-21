@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ownAttrs">
+        <attr name="label" format="reference|string" />
+        <attr name="hint" format="reference|string" />
+        <attr name="apphint" format="reference|string" />
+        <attr name="icon" format="reference" />
+        <attr name="isPhoneInput" format="boolean" />
+        <attr name="isFileInput" format="boolean" />
+        <attr name="isSumInput" format="boolean" />
+        <attr name="android:textSize" />
+        <attr name="android:enabled" />
+        <attr name="android:checked" />
+        <attr name="android:inputType" />
+        <attr name="android:maxLength" />
+        <attr name="eRef" format="enum">
+
+        </attr>
+    </declare-styleable>
+
+</resources>

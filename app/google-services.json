@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844058833653",
+    "project_id": "hacknu-project",
+    "storage_bucket": "hacknu-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844058833653:android:3d67a8e057085d28410bbc",
+        "android_client_info": {
+          "package_name": "kz.hacknu.findroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844058833653-m8naoo9jcb48mjae4pdh8nrsj25gm5jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lbvG4aNEfaeevxgHrB_8TSioC0SnWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844058833653-m8naoo9jcb48mjae4pdh8nrsj25gm5jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
